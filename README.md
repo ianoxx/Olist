@@ -1,8 +1,8 @@
 ## Olist
 # Olist store Sales Analysis Power BI
 
-*The data is taken from open sources.*
-<sup> Before the analysis, data formatting was performed, namely: type conversion, removal of uninformative strings. </sup>
+<sup> *The data is taken from open sources.* </sup>
+Before the analysis, data formatting was performed, namely: type conversion, removal of uninformative strings. 
 The analysis of sales of the "Olist" store for 2016-2018 was carried out.
 The report provides an opportunity to select the period, region, and order status. This clearly shows what revenue and for what period the store received. And also how much revenue was lost as a result of the cancellation of the order. You can also see the top 5 selling categories and customer ratings.
 # Conclusions:
