@@ -1,3 +1,3 @@
 # Olist
-Olist store Sales Analysis
-Power BI
+Olist store Sales Analysis Power BI
+
